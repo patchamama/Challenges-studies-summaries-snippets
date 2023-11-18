@@ -22,3 +22,10 @@ _https://gist.github.com/patchamama_
 ## Ideas to develop
 
 - [Ideas and ToDo](https://github.com/patchamama/ideas)
+
+## My social networks
+
+- [LinkedIn](https://www.linkedin.com/in/armandourquiola/)
+- [GitHub](https://github.com/patchamama)
+- [Portfolio](https://urquiola.dev)
+- [Gist](https://gist.github.com/patchamama)
