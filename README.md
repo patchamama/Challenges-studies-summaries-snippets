@@ -8,7 +8,7 @@ _https://gist.github.com/patchamama_
 
 ## Study materials and summaries done
 
-- [Full Stack Open 2023](https://github.com/patchamama/fullstackopen-2023): This course is held at the Department of Computer Science at the University of Helsinki.
+- [Full Stack Open 2023](https://github.com/patchamama/fullstackopen-2023): This course is held at the _Department of Computer Science_ at the **University of Helsinki**.
 - [Coding-challenges](https://github.com/patchamama/coding-challenges): This repository contains a collection of challenges that I have solved.
 - [devTalles - Curso de React: De cero a experto (Hooks y MERN)](https://github.com/patchamama/devtalles-react): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React`.
 - [devTalles - TypeScript: Tu completa guía y manual de mano](https://github.com/patchamama/devtalles-typescript): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `typescript`.
