@@ -10,9 +10,9 @@ _https://gist.github.com/patchamama_
 
 - [Full Stack Open 2023](https://github.com/patchamama/fullstackopen-2023): This course is held at the Department of Computer Science at the University of Helsinki.
 - [Coding-challenges](https://github.com/patchamama/coding-challenges): This repository contains a collection of challenges that I have solved.
-- [devTalles - Curso de React: De cero a experto (Hooks y MERN)](https://github.com/patchamama/devtalles-react): Mis notas personales del curso brindado por Fernando Herrera sobre `React`.
-- [devTalles - TypeScript: Tu completa guía y manual de mano](https://github.com/patchamama/devtalles-typescript): Mis notas personales del curso brindado por Fernando Herrera sobre `typescript`.
-- [devTalles - Docker: Guía práctica de uso para desarrolladores](https://github.com/patchamama/devtalles-Docker-gu-a-pr-ctica-para-desarrolladores): Mis notas personales del curso brindado por Fernando Herrera sobre `Docker`.
+- [devTalles - Curso de React: De cero a experto (Hooks y MERN)](https://github.com/patchamama/devtalles-react): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React`.
+- [devTalles - TypeScript: Tu completa guía y manual de mano](https://github.com/patchamama/devtalles-typescript): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `typescript`.
+- [devTalles - Docker: Guía práctica de uso para desarrolladores](https://github.com/patchamama/devtalles-Docker-gu-a-pr-ctica-para-desarrolladores): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Docker`.
 - [fullstackopen-Course-and-testing](https://github.com/patchamama/fullstackopen-Course-and-testing): Fullstackopen testing codes for me and to coaching...
 - [Summarises commands and instructions to be taught and used](https://github.com/patchamama/shortcuts-commands-resume)
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](https://github.com/patchamama/Comparative-Programming-Languages-Essentials-JS-TS-Python)
