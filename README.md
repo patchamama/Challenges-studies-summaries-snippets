@@ -18,6 +18,7 @@ _https://gist.github.com/patchamama_
 - [Summarises commands and instructions to be taught and used](https://github.com/patchamama/shortcuts-commands-resume)
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](https://github.com/patchamama/Comparative-Programming-Languages-Essentials-JS-TS-Python)
 - [Solid principles](devtalles.com/files/presentations/solid/solid.pdf)
+- [Eloquent Javascript by Marijn Haverbeke](https://github.com/patchamama/eloquent-javascript-es_soluciones)
 
 ## My teaching and coaching materials
 
