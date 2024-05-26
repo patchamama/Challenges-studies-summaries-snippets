@@ -20,6 +20,7 @@ _https://gist.github.com/patchamama_
 - [Solid principles](devtalles.com/files/presentations/solid/solid.pdf)
 - [Eloquent Javascript](https://github.com/patchamama/eloquent-javascript-es_soluciones) by Marijn Haverbeke.
 - [devTalles - Visual Studio Code: Mejora tu velocidad para codificar](https://github.com/patchamama/devtalles-Visual_Studio_Code_Mejora_tu_velocidad_para_codificar)
+- [devTalles - GIT+GitHub: Todo un sistema de control de versiones de cero](https://github.com/patchamama/DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero)
 
 ## My teaching and coaching materials
 
