@@ -23,6 +23,10 @@ _https://gist.github.com/patchamama_
 - [Eloquent Javascript](https://github.com/patchamama/eloquent-javascript-es_soluciones) by Marijn Haverbeke.
 - [CSS Tricks](https://github.com/patchamama/css-tricks) Trucos y mieles relacionadas con estilos (CSS).
 
+## Books
+
+- [Clean Javascript - Miguel A. Gomez](https://github.com/patchamama/clean-javascript-book)
+
 ## My teaching and coaching materials
 
 - [Tareas desarrolladas y pendientes en coaching con Albe](https://github.com/patchamama/tareas-pendientes-con-Albe)
