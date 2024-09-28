@@ -26,6 +26,8 @@ _https://gist.github.com/patchamama_
 ## Books
 
 - [Clean Javascript - Miguel A. Gomez](https://github.com/patchamama/clean-javascript-book)
+- [Refactoring JavaScript - Evan Buchard](https://github.com/patchamama/refactoring-javascript)
+- [Código Sostenible - Carlos Blé](https://github.com/patchamama/codigo-sostenible-book)
 
 ## My teaching and coaching materials
 
