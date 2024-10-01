@@ -20,8 +20,7 @@ _https://gist.github.com/patchamama_
 - [fullstackopen-Course-and-testing](https://github.com/patchamama/fullstackopen-Course-and-testing): Fullstackopen testing codes for me and to coaching...
 - [Summarises commands and instructions to be taught and used](https://github.com/patchamama/shortcuts-commands-resume)
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](https://github.com/patchamama/Comparative-Programming-Languages-Essentials-JS-TS-Python)
-- [Eloquent Javascript](https://github.com/patchamama/eloquent-javascript-es_soluciones) by Marijn Haverbeke.
-- [CSS Tricks](https://github.com/patchamama/css-tricks) Trucos y mieles relacionadas con estilos (CSS).
+- [Eloquent Javascript](https://github.com/patchamama/eloquent-javascript-es_soluciones) by Marijn Haverbeke. [Book ES](https://www.eloquentjavascript.es/) [Book EN](https://eloquentjavascript.net/)
 
 ## Notes of Books and other studies
 
