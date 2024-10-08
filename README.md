@@ -28,6 +28,7 @@ _https://gist.github.com/patchamama_
 - [Refactoring JavaScript - Evan Buchard](https://github.com/patchamama/refactoring-javascript)
 - [Código Sostenible - Carlos Blé](https://github.com/patchamama/codigo-sostenible-book)
 - [Code Institute Notes](https://github.com/patchamama/Code-Institute-notes)
+- [Career Foundry Notes](https://github.com/patchamama/Career-Foundry-notes)
 - [Preguntas de Entrevista de React - midudev](https://github.com/patchamama/preguntas-entrevista-react/tree/main)
 
 ## My teaching and coaching materials
