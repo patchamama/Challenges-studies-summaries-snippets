@@ -11,6 +11,7 @@ _https://gist.github.com/patchamama_
 - [Full Stack Open 2023](https://github.com/patchamama/fullstackopen-2023): This course is held at the _Department of Computer Science_ at the **University of Helsinki**.
 - [Coding-challenges](https://github.com/patchamama/coding-challenges): This repository contains a collection of challenges that I have solved.
 - [devTalles - Curso de React: De cero a experto (Hooks y MERN)](https://github.com/patchamama/devtalles-react): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React` (en progreso...).
+- [devTalles - React PRO: Lleva tus bases al siguiente nivel](https://github.com/patchamama/devtalles-react-pro): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React PRO` (en progreso...).
 - [devTalles - Principios SOLID y Clean Code](https://github.com/patchamama/devtalles-principios-solid-clean-code): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Principios SOLID y Clean Code` (en progreso...).
 - [devTalles - TypeScript: Tu completa guía y manual de mano](https://github.com/patchamama/devtalles-typescript): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `typescript` (en progreso...).
 - [devTalles - Docker: Guía práctica de uso para desarrolladores](https://github.com/patchamama/devtalles-Docker-gu-a-pr-ctica-para-desarrolladores): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Docker`. [Docker-cheat-sheet](https://devtalles.com/files/docker-cheat-sheet.pdf)  (en progreso...)
