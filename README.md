@@ -33,6 +33,7 @@ _https://gist.github.com/patchamama_
 - [Code Institute Notes](https://github.com/patchamama/Code-Institute-notes)
 - [Career Foundry Notes](https://github.com/patchamama/Career-Foundry-notes)
 - [Preguntas de Entrevista de React - midudev](https://github.com/patchamama/preguntas-entrevista-react/tree/main)
+- [You don't know JavaScript -  ES](https://github.com/patchamama/You-Dont-Know-JS-ES_Traduccion)
 
 ## My teaching and coaching materials
 
