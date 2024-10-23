@@ -34,6 +34,11 @@ _https://gist.github.com/patchamama_
 - [Career Foundry Notes](https://github.com/patchamama/Career-Foundry-notes)
 - [Preguntas de Entrevista de React - midudev](https://github.com/patchamama/preguntas-entrevista-react/tree/main)
 - [You don't know JavaScript -  ES](https://github.com/patchamama/You-Dont-Know-JS-ES_Traduccion)
+- [JavaScript Algorithms and Designs Patterns](https://github.com/patchamama/javascript-patterns)
+- [JavaScript Algorithms and Data Structures](https://github.com/patchamama/javascript-algorithms)
+- Clean-Code-JavaScript [EN](https://github.com/ryanmcdermott/clean-code-javascript) [ES](https://github.com/patchamama/clean-code-javascript)
+- [Learn Javascript - The Easy Way](https://github.com/patchamama/learn-javascript-easy-way)
+- [JavaScript - 100 proyectos - midudev](https://github.com/patchamama/javascript-100-proyectos)
 
 ## My teaching and coaching materials
 
