@@ -57,6 +57,7 @@ _https://gist.github.com/patchamama_
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Aprende JavaScript - Curso para aprender paso a paso JavaScript. 100% gratis y práctico. Desde cero (midudev)](https://www.aprendejavascript.dev/)
 - [The Odin Project](https://www.theodinproject.com/)
+- [Book Dive Into Python 3 - Mark Pilgrim](https://patchamama.github.io/diveintopython3/)
 
 ## My social networks
 
