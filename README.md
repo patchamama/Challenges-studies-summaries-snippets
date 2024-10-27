@@ -48,6 +48,15 @@ _https://gist.github.com/patchamama_
 
 - [Ideas and ToDo](https://github.com/patchamama/ideas)
 
+## Materials to study, challenges (pending to check)
+
+- [Roadmaps](https://roadmap.sh/)
+- [Frontend masters courses](https://frontendmasters.com/)
+- [Frontend mentor - Improve your coding skills by building realistic projects](https://www.frontendmentor.io/)
+- [Frontend Practice - Take your frontend skills to the next level by recreating real websites from real companies.](https://www.frontendpractice.com/)
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [The Odin Project](https://www.theodinproject.com/)
+
 ## My social networks
 
 - [LinkedIn](https://www.linkedin.com/in/armandourquiola/)
