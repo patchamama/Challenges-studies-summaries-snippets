@@ -55,6 +55,7 @@ _https://gist.github.com/patchamama_
 - [Frontend mentor - Improve your coding skills by building realistic projects](https://www.frontendmentor.io/)
 - [Frontend Practice - Take your frontend skills to the next level by recreating real websites from real companies.](https://www.frontendpractice.com/)
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [Aprende JavaScript - Curso para aprender paso a paso JavaScript. 100% gratis y práctico. Desde cero (midudev)](https://www.aprendejavascript.dev/)
 - [The Odin Project](https://www.theodinproject.com/)
 
 ## My social networks
