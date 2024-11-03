@@ -24,6 +24,8 @@ _https://gist.github.com/patchamama_
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](https://github.com/patchamama/Comparative-Programming-Languages-Essentials-JS-TS-Python)
 - [Eloquent Javascript](https://github.com/patchamama/eloquent-javascript-es_soluciones) by Marijn Haverbeke. [Book ES](https://www.eloquentjavascript.es/) [Book EN](https://eloquentjavascript.net/)
 - [React and JS Testing references](https://github.com/patchamama/react-js-testing)
+- [Django Notes](https://github.com/patchamama/django-settings-example-tips/tree/main)
+- [Laravel Notes](https://github.com/patchamama/laravel-settings-example-tips)
 
 ## Notes of Books and other studies
 
