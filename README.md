@@ -19,7 +19,7 @@ _https://gist.github.com/patchamama_
 - [devTalles - Visual Studio Code: Mejora tu velocidad para codificar](https://github.com/patchamama/devtalles-Visual_Studio_Code_Mejora_tu_velocidad_para_codificar): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Visual Studio Code`. (en progreso...)
 - [devTalles - GIT+GitHub: Todo un sistema de control de versiones de cero](https://github.com/patchamama/DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Git` y `Github`. (¡listo!)
 - [devTalles - PWA - Aplicaciones Web Progresivas: De cero a experto](https://github.com/patchamama/devTalles-PWA-Aplicaciones-Web-Progresivas-De-cero-a-experto): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `PWA`. (en progreso...)
-- [devTalles - OpenAI: Ejercicios prácticos y asistentes con React + NestJS](https://github.com/patchamama/devTalles-OpenAI-Ejercicios-practicos-y-asistentes-con-react-nestjs): (en progreso...))
+- [devTalles - OpenAI: Ejercicios prácticos y asistentes con React + NestJS](https://github.com/patchamama/devTalles-OpenAI-Ejercicios-practicos-y-asistentes-con-react-nestjs): (en progreso...)
 - [fullstackopen-Course-and-testing](https://github.com/patchamama/fullstackopen-Course-and-testing): Fullstackopen testing codes for me and to coaching...
 - [Summarises commands and instructions to be taught and used]v
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](https://github.com/patchamama/Comparative-Programming-Languages-Essentials-JS-TS-Python)
