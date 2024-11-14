@@ -45,7 +45,7 @@ _https://gist.github.com/patchamama_
 
 ## My teaching and coaching materials
 
-- [Tareas desarrolladas y pendientes en coaching con Albe](https://github.com/patchamama/tareas-pendientes-con-Albe)
+- [Tareas desarrolladas y pendientes en coaching con Albe](https://github.com/patchamama/tareas-pendientes-con-Albe) | [Michael](https://github.com/patchamama/test-con-michael)
 
 ## Ideas to develop
 
