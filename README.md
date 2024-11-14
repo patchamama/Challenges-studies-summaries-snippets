@@ -42,6 +42,7 @@ _https://gist.github.com/patchamama_
 - Clean-Code-JavaScript [EN](https://github.com/ryanmcdermott/clean-code-javascript) [ES](https://github.com/patchamama/clean-code-javascript)
 - [Learn Javascript - The Easy Way](https://github.com/patchamama/learn-javascript-easy-way)
 - [JavaScript - 100 proyectos - midudev](https://github.com/patchamama/javascript-100-proyectos)
+- [CSS Notes](https://github.com/patchamama/css-tricks)
 
 ## My teaching and coaching materials
 
@@ -54,6 +55,7 @@ _https://gist.github.com/patchamama_
 ## Materials to study, challenges (pending to check)
 
 - [Roadmaps](https://roadmap.sh/)
+- [Github Code Interview University](https://github.com/jwasham/coding-interview-university)
 - [Frontend masters courses](https://frontendmasters.com/)
 - [Frontend mentor - Improve your coding skills by building realistic projects](https://www.frontendmentor.io/)
 - [Frontend Practice - Take your frontend skills to the next level by recreating real websites from real companies.](https://www.frontendpractice.com/)
