@@ -36,6 +36,7 @@ _https://gist.github.com/patchamama_
 - [Código Sostenible - Carlos Blé](https://github.com/patchamama/codigo-sostenible-book)
 - [Code Institute Notes](https://github.com/patchamama/Code-Institute-notes)
 - [Career Foundry Notes](https://github.com/patchamama/Career-Foundry-notes)
+- [Django for Beginners \(5th Edition\)](https://github.com/patchamama/notes-Django-for-Beginners-5th-Edition)
 - [Preguntas de Entrevista de React - midudev](https://github.com/patchamama/preguntas-entrevista-react/tree/main)
 - [You don't know JavaScript -  ES](https://github.com/patchamama/You-Dont-Know-JS-ES_Traduccion)
 - [JavaScript Algorithms and Designs Patterns](https://github.com/patchamama/javascript-patterns)
