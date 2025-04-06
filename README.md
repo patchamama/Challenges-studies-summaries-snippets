@@ -37,6 +37,7 @@ _https://gist.github.com/patchamama_
 - [Code Institute Notes](https://github.com/patchamama/Code-Institute-notes)
 - [Career Foundry Notes](https://github.com/patchamama/Career-Foundry-notes)
 - [Python Crash Course (3rd Ed.)](https://github.com/patchamama/notas-Curso-intensivo-de-Python) | [Fe de erratas](https://ehmatthes.github.io/pcc_3e/)
+- [RealPython.com](https://realpython.com/)
 - [Django for Beginners \(5th Edition\)](https://github.com/patchamama/notes-Django-for-Beginners-5th-Edition)
 - [Preguntas de Entrevista de React - midudev](https://github.com/patchamama/preguntas-entrevista-react/tree/main)
 - [You don't know JavaScript -  ES](https://github.com/patchamama/You-Dont-Know-JS-ES_Traduccion)
