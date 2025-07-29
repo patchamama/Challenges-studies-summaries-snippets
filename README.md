@@ -12,6 +12,7 @@ _https://gist.github.com/patchamama_
 - [Coding-challenges](https://github.com/patchamama/coding-challenges): This repository contains a collection of challenges that I have solved.
 - [devTalles - Curso de React: De cero a experto (Hooks y MERN)](https://github.com/patchamama/devtalles-react): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React` (en progreso...).
 - [devTalles - React PRO: Lleva tus bases al siguiente nivel](https://github.com/patchamama/devtalles-react-pro): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `React PRO` (en progreso...).
+- [devTalles - Django: Crea aplicaciones web robustas con Python](https://github.com/patchamama/devtalles-django): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `dJango (python)` (en progreso...).
 - [dev-Talles - React: Aplicaciones en tiempo real con Socket-io](https://github.com/patchamama/devtalles-react-socket)
 - [devTalles - Principios SOLID y Clean Code](https://github.com/patchamama/devtalles-principios-solid-clean-code): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Principios SOLID y Clean Code` ([listo](https://cursos.devtalles.com/certificates/iefup2clp1)).
 - [devTalles - TypeScript: Tu completa guía y manual de mano](https://github.com/patchamama/devtalles-typescript): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `typescript` (en progreso...).
